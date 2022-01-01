@@ -27,7 +27,6 @@
   <img align="center" alt="sql server" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 </div>
 
-[![Top Langs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygor-lopez-rezende/){:target="_blank"}
 ##
 <div style="display: inline_block" align="center">
   <a href="#" onclick='window.open("https://www.linkedin.com/in/ygor-lopez-rezende/","_blank")'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

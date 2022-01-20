@@ -1,7 +1,7 @@
 ### Hi there, I am Ygor Rezende 👋
 
-- 🔭 I’m currently working on Rest APIs
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on Rest APIs and building my portfolio.
+- 🌱 I’m currently learning DevOps.
 - 💬 Ask me about Electronics, software development, cooking, religion, and soccer.
 - 📫 How to reach me: ygor.rezende@gmail.com
 - 😄 Pronouns: he, his, him
